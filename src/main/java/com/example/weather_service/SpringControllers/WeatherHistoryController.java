@@ -6,8 +6,6 @@ import com.example.weather_service.Util.LoadWebSite;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import javax.swing.text.html.parser.Parser;
 import java.sql.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
